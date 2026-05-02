@@ -3,3 +3,14 @@ https://www.gme.cz/v/1493072/gym-cym-rd-15r-5w-5-dratovy-rezistor
 
 https://www.gme.cz/v/1487266/stmicroelectronics-lm358dt
 https://www.gme.cz/v/1493288/infineon-irf7303trpbf-unipolarni-tranzistor
+
+
+JEDNODUSSI VERZE
+pouzit něco jako TC642EOA
+
+ICL7660S, ICL7660A pro negativni napeti
+Op amp NE5532DR
+TSC TS1117BCW50 RPG zdroj
+diody BAS40-04
+INFINEON IRF7301PBF nebo radsi  VISHAY IRLR110PbF unipolární tranzistor
+kondenzator roztec 5mm, prumer 10mm
