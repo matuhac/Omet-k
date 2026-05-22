@@ -1,0 +1,2 @@
+TEXAS INSTRUMENTS UA741CDG4 op amp a komparator
+STMicroelectronics L78L05ACD13TR
